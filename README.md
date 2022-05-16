@@ -42,7 +42,7 @@ Repositório: [Front-End01](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
- ## Primeiro 02
+ ## Segundo 02
 
 
 
@@ -64,7 +64,7 @@ Repositório: [Front-End02](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
-## Primeiro 03
+## Terceiro 03
 
 
 
@@ -88,7 +88,7 @@ Repositório: [Front-End03](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
-## Primeiro 04
+## Quarto 04
 
 
 
@@ -114,7 +114,7 @@ Repositório: [Front-End04](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
-## Primeiro 05
+## Quinto 05
 
 
 
