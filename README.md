@@ -26,7 +26,7 @@ Este repositório tem por objetivo de promover a interação e versonamentos dos
 
 
 
- ## Primeiro 01
+ ## Projeto 01
 
  O neste projeto o objetivo foi estudar as animações utilizando elementos do CSS,bem como as propriedade Animation, filter, transições entre outros.
 
@@ -42,7 +42,7 @@ Repositório: [Front-End01](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
- ## Segundo 02
+ ## Projeto 02
 
 
 
@@ -64,7 +64,7 @@ Repositório: [Front-End02](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
-## Terceiro 03
+## Projeto 03
 
 
 
@@ -88,7 +88,7 @@ Repositório: [Front-End03](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
-## Quarto 04
+## Projeto 04
 
 
 
@@ -114,7 +114,7 @@ Repositório: [Front-End04](https://github.com/josepaulobrandao/TQIFullstack-Dev
 
 
 
-## Quinto 05
+## Projeto 05
 
 
 
